@@ -1,0 +1,45 @@
+[{
+  "_id": {
+  "$oid":"632895f00e314b229123a636"
+  },
+  "nombre": "Antena",
+  "imagen": "https://http2.mlstatic.com/D_NQ_NP_681051-MCO44962616695_022021-V.jpg",
+  "precio": 200000,
+  "descripcion": "Antena Microondas",
+  "categoria": "antenas",
+  "stock": 20,
+  "_v": 0
+},{
+  "_id": {
+  "$oid": "632964adae8207d3255555"
+  },
+  "nombre": "Antena Litebeam 5AC Gen2",
+  "imagen": "https://http2.mlstatic.com/D_NQ_NP_781155-MLV43593688879_092020-O.jpg",
+  "precio": 380000,
+  "descripcion": "Antena AC Ubiqioti",
+  "categoria": "antenas",
+  "stock": 25,
+  "_v": 0
+},{
+  "_id": {
+    "$oid": "632964adae865546d39c60"
+  },
+  "nombre": "Router Tenda",
+  "imagen": "https://http2.mlstatic.com/D_NQ_NP_743335-MCO45343752990_032021-O.jpg",
+  "precio": 50000,
+  "descripcion": "Router 2.4Ghz ",
+  "categoria": "router",
+  "stock": 30,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632964adae8207d32ad39c60"
+  },
+  "nombre": "1",
+  "imagen": "1",
+  "precio": 1,
+  "descripcion": "1",
+  "categoria": "1",
+  "stock": 30,
+  "__v": 0
+}]
